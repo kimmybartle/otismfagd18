@@ -54,6 +54,7 @@ body {
 	cursor: move;
 	font-family: 'AkzidenzGrotesk';
   src: url(fonts/AkzidenzGroteskBQReg.woff2.woff); format('woff2');
+	 text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
 }
 
 #logo {
