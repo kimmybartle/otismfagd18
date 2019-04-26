@@ -20,7 +20,7 @@ body {
 }
 
 @font-face {
-  font-family: 'AkzidenzGrotesk';
+  font-family: 'AkzidenzGroteskBQReg';
   src: url(fonts/AkzidenzGroteskBQReg.woff2.woff); format('woff2');
   font-weight: normal;
   font-style: normal;
@@ -52,7 +52,7 @@ body {
 	font: 15px/20px monospace;
     letter-spacing: -0.3px;
 	cursor: move;
-	font-family: 'AkzidenzGrotesk';
+	font-family: 'AkzidenzGroteskBQReg';
   src: url(fonts/AkzidenzGroteskBQReg.woff2.woff); format('woff2');
 	 text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
 }
@@ -114,7 +114,7 @@ body {
 	max-width: 277px;
 	right: 145px;
 	top: 155px;
-	font-family: 'AkzidenzGrotesk';
+	font-family: 'AkzidenzGroteskBQReg';
   src: url(fonts/AkzidenzGroteskBQReg.woff2.woff); format('woff2');
 }
 
