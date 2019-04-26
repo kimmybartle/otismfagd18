@@ -3,8 +3,8 @@
 	"logo" : "logo.png",
 	"about" : "Does it make sense? Give it a Google",
 	"menu" : {
+		"Last Critique" : "https://docs.google.com/presentation/d/1kuFKyz6hJq2tuD-PKSU-Snrj7zcTxQwzxq7i0y0TQng/embed?start=true&loop=true&delayms=800",
 		"Parade" : "https://player.vimeo.com/video/332580226",
-		"About Us" : "https://docs.google.com/spreadsheets/d/1AQZ-pKeVIPGcCpw72GgU4JEFNB0OWD1iuPsT0WKPX3o",
-		"Last Critique" : "https://docs.google.com/presentation/d/1kuFKyz6hJq2tuD-PKSU-Snrj7zcTxQwzxq7i0y0TQng/embed?start=true&loop=true&delayms=5000"
+		"About Us" : "https://docs.google.com/spreadsheets/d/1AQZ-pKeVIPGcCpw72GgU4JEFNB0OWD1iuPsT0WKPX3o"
 	}
 }
