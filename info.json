@@ -3,7 +3,7 @@
 	"logo" : "logo.png",
 	"about" : "Does it make sense? Give it a Google",
 	"menu" : {
-		"Parade" : "https://www.youtube.com/embed/Sdi2S1PHS_s",
+		"Parade" : "https://player.vimeo.com/video/332580226",
 		"Last Critique" : "https://docs.google.com/presentation/d/1kuFKyz6hJq2tuD-PKSU-Snrj7zcTxQwzxq7i0y0TQng/embed?start=true&loop=true&delayms=5000"
 	}
 }
