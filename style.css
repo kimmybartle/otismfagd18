@@ -21,7 +21,7 @@ body {
 
 @font-face {
   font-family: 'AkzidenzGroteskBQReg';
-  src: url(fonts/AkzidenzGroteskBQReg.woff2.woff); format('woff2');
+  src: url(fonts/AkzidenzGroteskBQReg.woff2); format('woff2');
   font-weight: normal;
   font-style: normal;
 }
@@ -53,7 +53,7 @@ body {
     letter-spacing: -0.3px;
 	cursor: move;
 	font-family: 'AkzidenzGroteskBQReg';
-  src: url(fonts/AkzidenzGroteskBQReg.woff2.woff); format('woff2');
+  src: url(fonts/AkzidenzGroteskBQReg.woff2); format('woff2');
 	 text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
 }
 
@@ -115,7 +115,7 @@ body {
 	right: 145px;
 	top: 155px;
 	font-family: 'AkzidenzGroteskBQReg';
-  src: url(fonts/AkzidenzGroteskBQReg.woff2.woff); format('woff2');
+  src: url(fonts/AkzidenzGroteskBQReg.woff2); format('woff2');
 }
 
 /* Psuedo mobile styles for wide touch devices */
